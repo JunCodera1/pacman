@@ -1,2 +1,5 @@
 # pacman
-pacman game programing 
+pacman game programing.
+#Technology
+##Language:
+HTML, JS, CSS
